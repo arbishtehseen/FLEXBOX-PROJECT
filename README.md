@@ -5,7 +5,7 @@ A responsive web page built with **semantic HTML5** and **CSS Flexbox**, based o
 ## 🚀 Live Demo
 
 Check out the live project here:  
-👉 **[View Live Demo](https://arbish.github.io/flexbox-project/)**
+👉[https://arbish.github.io/FLEXBOX-PROJECT/](https://arbish.github.io/FLEXBOX-PROJECT/)
 
 ---
 
